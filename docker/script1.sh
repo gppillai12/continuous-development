@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t stage1-build .
+docker build -t gppillai12:2.0 .

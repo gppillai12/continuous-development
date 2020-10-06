@@ -1,2 +1,4 @@
 FROM ubuntu:18.04
-RUN echo GP Pillai
+RUN apt-get update
+
+
